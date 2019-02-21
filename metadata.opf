@@ -1,0 +1,21 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:creator opf:role="aut" opf:file-as="Freud, Sigmund">Sigmund Freud</dc:creator>
+<dc:identifier opf:scheme="calibre" id="calibre_id">c7dbb1eb-9b1f-4c7b-8dce-47554b060b6a</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7dbb1eb-9b1f-4c7b-8dce-47554b060b6a</dc:identifier>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.38.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1950-01-01T03:00:00+00:00</dc:date>
+        <dc:description>«Los orígenes del psicoanálisis» reúne una selección de cartas y notas dirigidas por Sigmund Freud a Wilhelm Fliess, médico y biólogo berlinés, durante el fecundo período en el que se gestaron algunas de sus obras capitales. La selección recoge el material relacionado con la labor y las inquietudes científicas de Freud, así como las circunstancias sociales y políticas en que se formó la escuela psicoanalítica.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <meta content="{&quot;Sigmund Freud&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:title>Los orígenes del psicoanálisis</dc:title>
+<meta name="calibre:title_sort" content="orígenes del psicoanálisis, Los"/>
+<dc:subject>Crónica</dc:subject>
+<dc:subject>Psicología</dc:subject>
+<dc:language>spa</dc:language>
+</metadata>
+    <guide>
+        <reference href="cover.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>
